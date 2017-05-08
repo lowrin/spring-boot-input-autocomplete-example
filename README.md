@@ -2,6 +2,8 @@
 
 
 
+![](https://raw.githubusercontent.com/lowrin/spring-boot-input-autocomplete-example/master/doku/screencast.gif)
+
 
 ## the website
 http://localhost:8080/
@@ -18,4 +20,4 @@ returns the json with all matching countries
 
 
 ### other
-gif screencast created with: http://www.cockos.com/licecap/
+gif screencast created with: http://recordit.co/
