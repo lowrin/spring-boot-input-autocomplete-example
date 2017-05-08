@@ -23,13 +23,15 @@
 
     $(document).ready(function() {
 
-    $('#autocomplete-input').devbridgeAutocomplete({
-        serviceUrl: '/suggestion',
-        paramName: 'searchstr',
-        minChars: 1,
-        autoSelectFirst: true
-        );
+      $('#autocomplete-input').devbridgeAutocomplete({
+          serviceUrl: '/suggestion',
+          paramName: 'searchstr',
+          minChars: 1,
+          autoSelectFirst: true,
+      });
+
     });
+
 
   </script>
 </head>
