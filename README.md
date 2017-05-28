@@ -14,7 +14,7 @@ http://localhost:8080/suggestion?searchstr=andorra
 returns the json with all matching countries
 
 ## used technologies
-- spring boot v1.5.2 (https://projects.spring.io/spring-boot/)
+- spring boot v1.5.3 (https://projects.spring.io/spring-boot/)
 - jquery autocomplete v1.4 (https://www.devbridge.com/sourcery/components/jquery-autocomplete/)
 - materialize css v0.98.2 (http://materializecss.com/)
 
